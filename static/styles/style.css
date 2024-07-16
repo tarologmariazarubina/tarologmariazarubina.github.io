@@ -1,0 +1,169 @@
+
+.table {
+    /* margin-left: auto;
+    margin-right: auto; */
+    width: 100%;
+    color:#f3f5f7;
+  }
+
+.centr {
+    color:#f3f5f7;
+    
+}
+
+.zag {
+    width: 400px;
+    height: 45px;        
+    /* background: #024cd4; */
+    background: #6610f2;
+    color:#f3f5f7;
+   
+} 
+
+.zag_1 {
+    width: 600px;
+    height: 45px;        
+    background: #6610f2;
+    color:#f3f5f7;
+   
+} 
+
+.card-t {
+    /* width: 300px; */
+        background: linear-gradient(270deg, rgb(6, 6, 208) 0%, #3902c3);  
+        /* color:aquamarine; */
+        color:#f3f5f7;
+        vertical-align: auto;
+       
+}
+        
+.fi {
+    
+     color: #e0f408;
+ }
+ 
+ .fiv {
+    
+    color: #4205fa;
+}
+ .fvo {
+    
+    color: #060115;
+}
+
+.text {
+    display: inline-block;
+    background-color: rgb(93, 89, 89);
+    color: white;
+    padding-left: 2px;
+    /*margin: 0.1rem;*/
+}
+.text-bl {display: block;
+   background-color: rgb(93, 89, 89);
+    color: white;
+    /*text-align: center;*/
+}
+.text-bl-in {
+    display: inline-flex;
+    background-color: rgb(93, 89, 89);
+    color: white;
+}
+.centr {
+    display: inline;
+    color: #1b2120;
+    text-align: center;
+}
+
+
+.ramka {
+    border-style: groove;
+    border-color: #e19d09;
+}
+
+
+.b {
+    background: #32d543;
+}
+.f {
+   font-style: italic;
+    color: #f6fff7;
+}
+.block-image {
+    width: 100px;
+}
+.main-form{
+    margin: 20px;
+    width: 500px;
+}
+.c{
+    width: 200px;
+    background:#6610f2 ;
+    color: #a3cfbb;
+
+}
+
+.fon{
+    font-size: 20px;
+}
+.fon1{
+    font-size: 30px;
+}
+.block{
+    width: 100px;
+    height: 70px;
+    background:#c4c8cb;
+    margin: 20px;
+}
+.box{
+    width: 600px;
+    margin: 20px;
+}
+.height_max{
+    height: 150px;
+}
+.con{
+     height: 150px;
+}
+.jambotron{
+    background: slategray;
+    padding: 3px;
+    margin-bottom: 15px;
+}
+.d-flex > div {
+    width: 200px;
+ }
+.mybg{
+    background: #a5abaf;
+    font-style: italic;
+    color: #a71d2a;
+}
+.navbar-toggler{
+    outline: none!important;
+}
+.navbar-toggler:hover{
+    background: #D5E2F1FF;
+}
+.my_font{
+  font-size:20px;
+}
+.fon_site{
+    font-size: 10px;
+}
+.card {
+    width: 300px;
+        background: linear-gradient(270deg, rgb(57, 57, 250) 0%, #2d2d2d);
+        color:aquamarine;
+    }
+
+    
+
+       
+
+footer{
+    padding: 30px 0;
+    color: #999;
+    text-align: center;
+    background-color: #000000;
+ }
+
+ 
