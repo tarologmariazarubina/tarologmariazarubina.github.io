@@ -148,9 +148,9 @@
 }
 .fon_site{
     font-size: 10px;
-    color:rgb(250, 253, 252);
+     color: white;
 }
-}
+
 .card {
     width: 300px;
         background: linear-gradient(270deg, rgb(57, 57, 250) 0%, #2d2d2d);
